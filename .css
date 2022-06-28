@@ -1,0 +1,39 @@
+body {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    background-color: #E4DCCF;
+  }
+  
+  img {
+    display: block;
+    width: 30%;
+  }
+
+  p {
+    word-spacing: 5px;
+    font-family: "monospace", cursive;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    color: #576F72;
+    line-height: 0.9;
+  }
+
+  article {
+    white-space: pre-line;
+  }
+  nav {
+    font-size: 1.2em;
+    font-family: monospace, cursive, sans-serif;
+    color: #576F72;
+    text-transform: lowercase;
+    letter-spacing: 5px;
+  }
